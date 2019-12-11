@@ -2,7 +2,7 @@
 
 
 # GOBARBER - APLICAÇÃO BACKEND (API)
-Nesse projeto construimos uma API
+Nesse projeto construimos uma API para agendamentos de barbearia.
 
 ## Tecnologias
 
